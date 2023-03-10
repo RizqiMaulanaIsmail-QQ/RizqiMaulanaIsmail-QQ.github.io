@@ -1,0 +1,30 @@
+.jumbotron{
+  padding-top: 6rem;
+  background-color:#ffffff;
+}
+#gallery{
+  background-color:#ffffff; 
+}
+#about{
+  background-color:#01141a; 
+  color: #ffffff;
+}
+#contact{
+  background-color:#01141a; 
+  color: #ffffff;
+}
+section{
+  padding-top: 6rem;
+}
+footer a{
+  text-decoration: none;
+}
+.card {
+  transition: 0.5s;
+}
+
+.card:hover {
+  background-color: aquamarine;
+  margin-top: 10px;
+  transition: 1s;
+}
